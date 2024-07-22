@@ -1,4 +1,4 @@
-# Txoaley
+# Galip MERT 28
 Kurulum
 
 Cmd açıp bunları yazıyoruz;
