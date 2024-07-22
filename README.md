@@ -1,4 +1,4 @@
-# Galip MERT 28
+# DOS-V
 Kurulum
 
 Cmd açıp bunları yazıyoruz;
